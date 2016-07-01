@@ -2,8 +2,6 @@
 
 ## Tasks
 
-Complete the following many to many objectives:
-
 ### Complete the following aggregation objectives:
 
 * Get the average rating for a movie
